@@ -20,3 +20,6 @@
 - Hybrid Consensus (PoS + ACO)
 
 (تابع القراءة أدناه...)
+<p align="center">
+  <img src="https://i.ibb.co/Kz96mZ5V/SwarmChain-Diagram.png" width="80%" alt="Diagram">
+</p>
