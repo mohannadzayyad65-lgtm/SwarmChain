@@ -2,8 +2,11 @@
 SwarmChain - Ant Inspired Blockchain
 # SwarmChain 🐜
 
-![SwarmChain Logo](https://ibb.co/Kpf6bXdn) 
-![SwarmChain Logo](https://ibb.co/Kz96mZ5V) 
+![SwarmChain Logo](https://i.ibb.co/Kpf6bXdn/SwarmChain-Logo.png)
+
+**بلوكشين مستوحى من ذكاء النمل** — لامركزي، مفتوح المصدر، ومستقل إلى الأبد.
+
+![Diagram - كيفية عمل الفيرومون](https://i.ibb.co/Kz96mZ5V/SwarmChain-Diagram.png)
 
 **بلوكشين مستوحى من ذكاء النمل** — لامركزي، مفتوح المصدر، ومستقل إلى الأبد.
 
