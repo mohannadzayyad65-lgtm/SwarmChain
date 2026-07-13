@@ -8,8 +8,6 @@ SwarmChain - Ant Inspired Blockchain
 
 ![Diagram - كيفية عمل الفيرومون](https://i.ibb.co/Kz96mZ5V/SwarmChain-Diagram.png)
 
-**بلوكشين مستوحى من ذكاء النمل** — لامركزي، مفتوح المصدر، ومستقل إلى الأبد.
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/mohannadzayyad65-lgtm/SwarmChain)](https://github.com/mohannadzayyad65-lgtm/SwarmChain)
 
