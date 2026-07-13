@@ -42,6 +42,7 @@ SwarmChain هو بلوكشين يعتمد على **الذكاء الجماعي**
       prob = (pheromone ^ α) × (reward ^ β)
 3.تعزيز + تبخر = سلوك جماعي ذكي.
    التنصيب والتشغيل
+   
 git clone https://github.com/mohannadzayyad65-lgtm/SwarmChain.git
 cd SwarmChain
 pip install -r requirements.txt
